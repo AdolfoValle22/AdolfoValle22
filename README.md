@@ -8,6 +8,6 @@ Soy un desarrollador web apasionado por crear soluciones eficientes y elegantes.
 
 ## Contacto
 
-- [LinkedIn](www.linkedin.com/in/josue-valle-32919a353)
-- [Correo Electrónico](vv25001@esfe.agape.edu.sv)
+- [www.linkedin.com/in/josue-valle-32919a353]
+- [vv25001@esfe.agape.edu.sv]
 
